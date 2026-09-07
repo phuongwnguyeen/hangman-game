@@ -1,0 +1,39 @@
+[
+  {"word": "cat",        "category": "animal",     "difficulty": "easy"},
+  {"word": "dog",        "category": "animal",     "difficulty": "easy"},
+  {"word": "lion",       "category": "animal",     "difficulty": "easy"},
+  {"word": "tiger",      "category": "animal",     "difficulty": "easy"},
+  {"word": "eagle",      "category": "animal",     "difficulty": "easy"},
+  {"word": "elephant",   "category": "animal",     "difficulty": "medium"},
+  {"word": "dolphin",    "category": "animal",     "difficulty": "medium"},
+  {"word": "kangaroo",   "category": "animal",     "difficulty": "hard"},
+  {"word": "chimpanzee", "category": "animal",     "difficulty": "hard"},
+  {"word": "rhinoceros", "category": "animal",     "difficulty": "hard"},
+
+  {"word": "chef",       "category": "job",        "difficulty": "easy"},
+  {"word": "nurse",      "category": "job",        "difficulty": "easy"},
+  {"word": "farmer",     "category": "job",        "difficulty": "medium"},
+  {"word": "teacher",    "category": "job",        "difficulty": "medium"},
+  {"word": "engineer",   "category": "job",        "difficulty": "hard"},
+  {"word": "programmer", "category": "job",        "difficulty": "hard"},
+  {"word": "accountant", "category": "job",        "difficulty": "hard"},
+
+  {"word": "chair",      "category": "object",     "difficulty": "easy"},
+  {"word": "table",      "category": "object",     "difficulty": "easy"},
+  {"word": "pencil",     "category": "object",     "difficulty": "medium"},
+  {"word": "keyboard",   "category": "object",     "difficulty": "medium"},
+  {"word": "umbrella",   "category": "object",     "difficulty": "hard"},
+  {"word": "microphone", "category": "object",     "difficulty": "hard"},
+
+  {"word": "apple",      "category": "food",       "difficulty": "easy"},
+  {"word": "mango",      "category": "food",       "difficulty": "easy"},
+  {"word": "noodle",     "category": "food",       "difficulty": "medium"},
+  {"word": "sandwich",   "category": "food",       "difficulty": "medium"},
+  {"word": "chocolate",  "category": "food",       "difficulty": "hard"},
+  {"word": "pineapple",  "category": "food",       "difficulty": "hard"},
+
+  {"word": "paris",      "category": "place",      "difficulty": "easy"},
+  {"word": "hanoi",      "category": "place",      "difficulty": "easy"},
+  {"word": "vietnam",    "category": "place",      "difficulty": "medium"},
+  {"word": "singapore",  "category": "place",      "difficulty": "hard"}
+]
